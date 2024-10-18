@@ -5,22 +5,19 @@
 To create UML Diagrams for ATM & Banking systems using StarUML.
 
 # Use Case Diagram :
-![Screenshot 2024-10-18 151321](https://github.com/user-attachments/assets/351b1606-aa89-4b3b-9dc8-a0bb7357a2af)
+![11](https://github.com/user-attachments/assets/832a3725-330a-40c7-b7a5-3e930ba93057)
 
 
 # Class Diagram :
-![Screenshot 2024-10-18 151333](https://github.com/user-attachments/assets/d7caf9eb-c795-4045-a735-9fd42461d9e9)
-
+![12](https://github.com/user-attachments/assets/1e9cfd70-cfb2-4bad-a3a8-ac73ca52aee7)
 
 # Sequence Diagram :
-![Screenshot 2024-10-18 151343](https://github.com/user-attachments/assets/8d6d5cf2-869a-47d2-8e61-416390484927)
-
+![13](https://github.com/user-attachments/assets/52322357-c4e8-44e3-853e-4fbe23067ad7)
 
 # Activity Diagram :
 
-![Screenshot 2024-10-18 151351](https://github.com/user-attachments/assets/52d10522-481a-4a7a-bf92-feb83014aacc)
+![14](https://github.com/user-attachments/assets/07405f2b-5070-4eeb-b35c-c4130d1cf59f)
 
-1edd)
 
 
 # Conclusion :
