@@ -1,5 +1,5 @@
 # 19CS408--EXPERIMENT 1 : ATM BANKING SYSTEM
-#NAME:VAISHANVI S
+# NAME:VAISHANVI S
 # REG NO:212222230165
 # Aim :
 To create UML Diagrams for ATM & Banking systems using StarUML.
