@@ -20,12 +20,7 @@ To create UML Diagrams for ATM & Banking systems using StarUML.
 
 ![Screenshot 2024-10-18 151351](https://github.com/user-attachments/assets/52d10522-481a-4a7a-bf92-feb83014aacc)
 
-# Communication Diagram:
-![Screenshot 2024-10-18 151510](https://github.com/user-attachments/assets/a8eb0808-dc57-44df-999b-45c34f5d3a4c)
-
-
-# Package Diagram:
-![Screenshot 2024-10-18 151516](https://github.com/user-attachments/assets/10417497-fe12-4c3c-bc25-827822941edd)
+1edd)
 
 
 # Conclusion :
